@@ -58,3 +58,13 @@ body {
   height: 41px;
 }
 
+
+.confirm {
+  position: absolute;
+  cursor: pointer;
+
+  left: 149px;
+  top: 454px;
+  width: 85px;
+  height: 70px;
+}
