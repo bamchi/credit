@@ -6,13 +6,13 @@ body {
   height: 667px;
 }
 
-.result_preview {
+.btn {
   position: absolute;
   cursor: pointer;
-  
-  left: 17px;
-  top: 489px;
-  width: 340px;
-  height: 58px;
+
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
 }
 

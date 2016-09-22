@@ -58,3 +58,15 @@ body {
   height: 41px;
 }
 
+
+
+.plus-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 170px;
+  top: 455px;
+  width: 38px;
+  height: 38px;
+}
+

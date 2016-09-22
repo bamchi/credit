@@ -9,9 +9,19 @@ body {
 .result_preview {
   position: absolute;
   cursor: pointer;
-  
+
   left: 17px;
   top: 489px;
+  width: 340px;
+  height: 58px;
+}
+
+.insert {
+  position: absolute;
+  cursor: pointer;
+
+  left: 17px;
+  top: 552px;
   width: 340px;
   height: 58px;
 }
