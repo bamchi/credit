@@ -1,0 +1,68 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height: 667px;
+}
+
+.btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.tab1 {
+  position: absolute;
+  cursor: pointer;
+
+  left: 0;
+  top: 602px;
+  width: 76px;
+  height: 64px;
+}
+
+.tab2 {
+  position: absolute;
+  cursor: pointer;
+
+  left: 78px;
+  top: 602px;
+  width: 76px;
+  height: 64px;
+}
+
+.tab3 {
+  position: absolute;
+  cursor: pointer;
+
+  left: 154px;
+  top: 602px;
+  width: 76px;
+  height: 64px;
+}
+
+.tab4 {
+  position: absolute;
+  cursor: pointer;
+
+  left: 230px;
+  top: 602px;
+  width: 76px;
+  height: 64px;
+}
+
+.tab5 {
+  position: absolute;
+  cursor: pointer;
+
+  left: 300px;
+  top: 602px;
+  width: 76px;
+  height: 64px;
+}
+
