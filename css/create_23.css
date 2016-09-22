@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height: 667px;
+}
+
+.result_preview {
+  position: absolute;
+  cursor: pointer;
+  
+  left: 17px;
+  top: 489px;
+  width: 340px;
+  height: 58px;
+}
+

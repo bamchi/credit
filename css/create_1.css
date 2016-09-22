@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height: 667px;
+}
+
+.btn {
+  position: absolute;
+  cursor: pointer;
+  
+  top: 592px;
+  left: 17px;
+  width: 340px;
+  height: 61px;
+}
+
+
+.paste-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 123px;
+  top: 225px;
+  width: 130px;
+  height: 25px;
+}
+
+.create-1-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 26px;
+  top: 403px;
+  width: 127px;
+  height: 41px;
+}
+
+.create-2-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 137px;
+  top: 403px;
+  width: 127px;
+  height: 41px;
+}
+
+
+.create-3-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 248px;
+  top: 403px;
+  width: 127px;
+  height: 41px;
+}
+
