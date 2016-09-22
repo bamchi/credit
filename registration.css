@@ -1,0 +1,78 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 667px;
+}
+
+.back-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 20px;
+  top: 20px;
+  width: 14px;
+  height: 23px;
+}
+
+
+
+#name {
+  position: absolute;
+  cursor: pointer;
+
+  left: 34px;
+  top: 70px;
+  width: 310px;
+  height: 41px;
+
+  color: white;
+  background-color: transparent;
+  border: 0;
+
+  font-size: 1.2em;
+}
+
+#email {
+  position: absolute;
+  cursor: pointer;
+
+  left: 34px;
+  top: 139px;
+  width: 310px;
+  height: 41px;
+
+  color: white;
+  background-color: transparent;
+  border: 0;
+
+  font-size: 1.2em;
+}
+
+#password {
+  position: absolute;
+  cursor: pointer;
+
+  left: 34px;
+  top: 207px;
+  width: 310px;
+  height: 41px;
+
+  color:white;
+  background-color: transparent;
+  border: 0;
+
+  font-size: 1.2em;
+}
+
+.start-btn {
+  position: absolute;
+  cursor: pointer;
+
+  left: 18px;
+  top: 303px;
+  width: 340px;
+  height: 61px;
+}
+
