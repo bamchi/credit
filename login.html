@@ -4,16 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title>신용의 사회</title>
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="login.css">
+  <script src="move.js"></script>
 </head>
 <body style="background-image: url(images/login.png);">
-  <!--<div class="btn" onclick="move()"></div>-->
+  <div class="back-btn" onclick="move('index.html')"></div>
+  <input type="text" id="name" placeholder="이메일 주소를 입력하세요">
+  <input type="password" id="password" placeholder="비밀번호를 입력하세요">
+
+  <div class="login-btn" onclick="move('password.html')"></div>
+  <div class="kakao-btn" onclick="move('password.html')"></div>
+  <div class="facebook-btn" onclick="move('password.html')"></div>
+
+  <div class="registration-btn" onclick="move('registration.html')"></div>
+
 </body>
-
-<script>
-  function move() {
-    document.location.href="login.html";
-  }
-</script>
 </html>
-
