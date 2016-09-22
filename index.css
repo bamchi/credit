@@ -3,6 +3,7 @@ body {
   margin: 0;
   background-size: 100%;
   background-repeat:no-repeat;
+  height: 100%;
 }
 
 .btn {
