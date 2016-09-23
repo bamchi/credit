@@ -6,13 +6,27 @@ body {
   height: 667px;
 }
 
-.btn {
+.result_preview {
   position: absolute;
   cursor: pointer;
 
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
+  left: 17px;
+  top: 396px;
+  width: 340px;
+  height: 58px;
+
+  background-color: red;
+}
+
+.insert {
+  position: absolute;
+  cursor: pointer;
+
+  left: 17px;
+  top: 466px;
+  width: 340px;
+  height: 58px;
+
+  background-color: blue;
 }
 
